@@ -50,7 +50,7 @@ const result2Element = document.getElementById('result2');
 
 ////starter code////
 //update code below to using template literals (not concatenation) to pull in the variables myName, color, make, into output
-result2Element.innerHTML = `Hello my name is ${myName} and I drive a ${car[1].color} ${car[1].make} ${car[1].model}`;
+result2Element.innerHTML = `Hello my name is ${myName} and I drive a ${car[2].color} ${car[2].make} ${car[2].model}`;
 
 
 
